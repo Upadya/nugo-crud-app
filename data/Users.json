@@ -1,0 +1,23 @@
+ [
+    {
+      "name": "Akmin Doen",
+      "email": "akmin.doen@gmail.com",
+      "address": "123 Main St",
+      "city": "Ohio",
+      "country": "USA"
+    },
+    {
+      "name": "JohnSmith",
+      "email": "john.smith@gmail.com",
+      "address": "456 Elm St",
+      "city": "MAble",
+      "country": "Canada"
+    },
+    {
+      "name": "Alice Macvic",
+      "email": "alice.mac@gmail.com",
+      "address": "789 Oak St",
+      "city": "New Castle",
+      "country": "UK"
+    }
+  ]
